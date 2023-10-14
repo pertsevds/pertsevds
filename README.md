@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 You can reach me at: https://t.me/davaeron
+- 📫 You can reach me at: https://t.me/Dmitriy_Pertsev
 
 <!--
 **davaeron/davaeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
